@@ -44,7 +44,7 @@ REACT
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">REACT</a></li>
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
-    <li><a href="https://github.com/Dmambo/hello-react-back-end.git">BACKEND[Ruby on Rails]</a><li>
+    <li><a href="https://github.com/Dmambo/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
 
   </ul>
   <summary>Client</summary>
