@@ -1,8 +1,7 @@
 import './App.css';
 import axios from 'axios';
-import Greetings from './components/greetings';
-// import { response } from 'express';
 import { useEffect, useState } from 'react';
+import Greetings from './components/greetings';
 
 const API_URL = 'http://localhost:3000/api/v1/greetings';
 

@@ -1,70 +1,140 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <h3><b>hello-rails-front-end</b></h3>
+</div>
 
-## Available Scripts
+<!-- TABLE OF CONTENTS -->
 
-In the project directory, you can run:
+# 📗 Table of Contents
 
-### `npm start`
+- [📗 Table of Contents](#-table-of-contents)
+- [Hello world- ](#hello-world--)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Run](#run)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- PROJECT DESCRIPTION -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# RailsREACT - <a name="about-project"></a>
 
-### `npm test`
+**Rails REACT** is the eductional project to connect with REACT and React. In this exercise I have connected previous knowledge with new knowledge as I get a chance to use Webpack with jsbundling-rails gem.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Built With <a name="built-with">
 
-### `npm run build`
+REACT
+</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a name="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://rubyonrails.org/">REACT</a></li>
+    <li><a href="https://www.postgresql.org/">Postgresql</a></li>
+    <li><a href="https://github.com/Dmambo/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  </ul>
+  <summary>Client</summary>
+    <li><a href="https://github.com/Dmambo/hello-react-front-end.git">FRONTEND</a><li>
+</details>
 
-### `npm run eject`
+<p align="right"><a href="#readme-top">front to top</a></p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- Key Features -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Key Features <a name="key-features"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Create an API endpint by rails.
+- Use api using webpack.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- GETTING STARTED -->
 
-## Learn More
+## 💻 Getting Started <a name="getting-started"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Make sure you have Ruby installed in your system. You can install it [here](https://www.ruby-lang.org/en/documentation/installation/)
 
-### Code Splitting
+- Get started with [REACT](https://guides.rubyonrails.org/getting_started.html).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Make sure you have [PostgreSQL](https://www.postgresql.org/) installed and running.
 
-### Analyzing the Bundle Size
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Clone this repository by running `git clone https://github.com/Dmambo/hello-rails-front-end.git` in your command line.
 
-### Making a Progressive Web App
+- Navigate to the repository by running `cd hello-rails-front-end`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Install
 
-### Advanced Configuration
+- Run `bundle install` to install all the gems.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Run
 
-### Deployment
+- Run npm install
+- Run npm start
+- In your browser, go to `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p align="right"><a href="#readme-top">front to top</a></p>
 
-### `npm run build` fails to minify
+<!-- AUTHORS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👥 Authors <a name="authors"></a>
+
+👤 **DIABY MOHAMMED IBRAHIM**
+
+- [GitHub](https://github.com/dmambo)
+- [Twitter](https://twitter.com/kingibro345)
+- [LinkedIn](https://www.linkedin.com/in/dmambo/)
+
+<p align="right"><a href="#readme-top">front to top</a></p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Better user interface**
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Dmambo/hello-rails-front-end.git/issues)
+
+<p align="right"><a href="#readme-top">front to top</a></p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right"><a href="#readme-top">front to top</a></p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank all code reviewers and coding partners for making this project better.
+
+<p align="right">(<a href="#readme-top">front to top</a>)</p>
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right"><a href="#readme-top">front to top</a></p>
